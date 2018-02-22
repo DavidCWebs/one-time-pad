@@ -1,8 +1,3 @@
-/**
- * Compile:
- * g++ pad.cpp -o pad -std=c++11
- */
-
 #include <iostream>
 #include <limits>
 #include <algorithm>
