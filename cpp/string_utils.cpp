@@ -1,4 +1,5 @@
 #include "string_utils.hpp"
+
 std::vector<uint8_t> hexStringToVector(std::string inputHexString)
 {
     std::vector<uint8_t> outputVector;
